@@ -1,7 +1,7 @@
 # BhodBasha-Learning-Platform
-BhodBasha is a comprehensive, offline-first, domain-calibrated GovTech platform which Emphasizes on the iGOT Karmayogi ecosystem courses and NSSTA for capacity Building of India's Statistical Officers and Officials.
+1. BhodBasha is a comprehensive, offline-first, domain-calibrated GovTech platform which Emphasizes on the iGOT Karmayogi ecosystem courses and NSSTA for capacity Building of India's Statistical Officers and Officials.
 
-Our PWA is structured into four high-impact pillars:
+2. Our PWA is structured into four high-impact pillars:
 A. Cadre Skill Intelligence & Competency Engine
 • Automated Cadre Profiling: Automatically provisions profiles based on designation (SSO, JSO, Director), regional office
 (FOD Hyderabad, Kolkata, Delhi, Bengaluru), and current survey assignment (PLFS, ASUSE 2026).
