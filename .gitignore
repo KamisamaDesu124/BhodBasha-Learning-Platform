@@ -1,0 +1,54 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+.pnp
+.pnp.js
+
+# Testing & Cache
+.pytest_cache/
+.coverage
+htmlcov/
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*.py[cod]
+*$py.class
+
+# Next.js build output
+.next/
+frontend/.next/
+out/
+frontend/out/
+build/
+dist/
+
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Databases & SQLite
+*.db
+*.sqlite
+*.sqlite3
+bhodbasha.db
+
+# Environment & Secrets
+.env
+.env*.local
+!.env.example
+
+# IDE & OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log

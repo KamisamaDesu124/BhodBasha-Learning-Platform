@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: bhodbasha-backend
+    env: docker
+    dockerfilePath: ./backend/Dockerfile
+    plan: free
+    region: frankfurt
+    envVars:
+      - key: MOCK_PROVIDERS
+        value: "true"
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DATABASE_URL
+        value: "sqlite+aiosqlite:///./bhodbasha.db"

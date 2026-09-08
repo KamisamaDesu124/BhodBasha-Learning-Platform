@@ -1,0 +1,12 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "next build",
+  "outputDirectory": ".next",
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/api/py/:path*",
+      "destination": "https://bhodbasha-backend.onrender.com/api/:path*"
+    }
+  ]
+}

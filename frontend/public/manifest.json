@@ -1,0 +1,24 @@
+{
+  "name": "BhodBasha - Multilingual STEM Learning",
+  "short_name": "BhodBasha",
+  "description": "Knowledge that speaks your language, even offline.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FCF9F8",
+  "theme_color": "#9F3E07",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
