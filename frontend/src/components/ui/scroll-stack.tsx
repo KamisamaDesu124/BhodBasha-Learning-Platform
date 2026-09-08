@@ -389,7 +389,7 @@ export function ScrollStack({
               style={{ zIndex: idx }}
             >
               {customCards.length > 0 ? (
-                card
+                (card as React.ReactNode)
               ) : (
                 <DefaultCardLayout
                   item={card as ScrollStackItem}

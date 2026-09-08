@@ -21,6 +21,7 @@ out/
 frontend/out/
 build/
 dist/
+*.tsbuildinfo
 
 # Python Virtual Environments
 .venv/
